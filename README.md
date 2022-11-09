@@ -1,4 +1,4 @@
-### Hi there 👋
+![eunho8713's github stats](https://github-readme-stats.vercel.app/api?username=eunho8713&show_icons=true)
 
 <!--
 **eunho8713/eunho8713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
